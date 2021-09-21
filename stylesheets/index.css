@@ -1,0 +1,55 @@
+body
+{
+    overflow: hidden;
+    background-color: #121010;
+    margin: 0 auto;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-family: monospace, serif;
+    background-size: 1920px 1080px;
+    background-repeat:  no-repeat;
+    /* background-image: url(../assets/backgrounds/lonely_swing_by_miloecute_deefog3.png); */
+}
+
+.header
+{
+    background-color: #16130F;
+}
+
+.header span
+{
+    font-size: 30px;
+}
+
+.header div
+{
+    padding: 30px 10px;
+}
+
+.header img
+{
+    filter:grayscale();
+    vertical-align: middle;
+    padding: 0px 20px 0px 20px;
+    pointer-events: none;
+    user-select: none;
+}
+
+.header nav a
+{
+    color: white;
+    text-decoration: none;
+}
+
+.header nav a:hover
+{
+    color: #FCE034;
+}
+
+.header nav
+{
+    padding: 10px 5px 15px 5px;
+    font-size: 20px;
+    color: rgb(250, 4, 100);
+}
