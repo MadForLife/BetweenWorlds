@@ -1,0 +1,62 @@
+body
+{
+    display: block;
+    overflow: visible;
+    margin: 0 auto;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    padding: 10%;
+    background-color: #171717;
+    font-family: 'Chakra Petch', sans-serif;
+    filter: drop-shadow(0 0 0.75rem #BFA2DB);
+}
+
+.content-box nav a
+{
+    padding: 0px 6px 0px 6px;
+}
+
+.content-box div a pre p img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    cursor: default;
+}
+
+.content-box div
+{
+    margin: 4em 0px 4em 0px;
+}
+
+pre
+{
+    display: block;
+}
+
+p
+{
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+}
+
+a
+{
+    text-decoration: none;
+    color: #DDDDDD;
+}
+
+a:-webkit-any-link
+{
+    color: webkite link;
+    cursor: pointer;
+}
+
+.content-box
+{
+    background-color: #171717;
+    color: #F3F1F5;
+    border: 4px #F0D9FF solid;
+    padding: 30px;
+}
